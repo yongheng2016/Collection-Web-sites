@@ -6,3 +6,4 @@
 + [API --> bing](https://github.com/yongheng2016/Collection-of-Web-sites/issues/2)
 + [创意网站](http://fff.cmiscm.com/#!/main)
 + [quik demo how to search [lmgtfy]](http://zh.lmgtfy.com/)
++ [cllection sites | tools | ...](https://ezbytool.com/)
