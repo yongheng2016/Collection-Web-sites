@@ -7,3 +7,4 @@
 + [创意网站](http://fff.cmiscm.com/#!/main)
 + [quik demo how to search [lmgtfy]](http://zh.lmgtfy.com/)
 + [cllection sites | tools | ...](https://ezbytool.com/)
++ [background image](https://inspirationhut.net/design-resources/20-beautiful-seamless-patterns-for-your-website-background/)
