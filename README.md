@@ -9,3 +9,4 @@
 + [cllection sites | tools | ...](https://ezbytool.com/)
 + [background image](https://inspirationhut.net/design-resources/20-beautiful-seamless-patterns-for-your-website-background/)
 + [web design](https://designschool.canva.com/blog/website-background-pattern/)
++ [无需科学上网，小众的搜索引擎，搜索结果依次为谷歌、雅虎、必应](http://bird.so/)
