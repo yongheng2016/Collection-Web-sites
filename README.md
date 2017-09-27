@@ -10,3 +10,7 @@
 + [background image](https://inspirationhut.net/design-resources/20-beautiful-seamless-patterns-for-your-website-background/)
 + [web design](https://designschool.canva.com/blog/website-background-pattern/)
 + [无需科学上网，小众的搜索引擎，搜索结果依次为谷歌、雅虎、必应](http://bird.so/)
++ [抖动效果](http://elrumordelaluz.github.io/csshake/)
++ [鼠标移动倾斜](https://micku7zu.github.io/vanilla-tilt.js/)
++ [表单特效 Echart](http://echarts.baidu.com/feature.html)
++ [slide 轮播](http://amazeui.org/javascript/slider?_ver=2.x)
