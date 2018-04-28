@@ -14,3 +14,4 @@
 + [鼠标移动倾斜](https://micku7zu.github.io/vanilla-tilt.js/)
 + [表单特效 Echart](http://echarts.baidu.com/feature.html)
 + [slide 轮播](http://amazeui.org/javascript/slider?_ver=2.x)
++ [一个很酷的组件库](http://blueprintjs.com/docs/v2/#core/components/alert)
