@@ -20,3 +20,4 @@
 + [正则构造树](https://regexper.com/)
 + [Kuler 配色 主题](https://color.adobe.com/zh/create/color-wheel/)
 + [url shorter 生成短地址](https://www.shorturl.at/)
++ [chrome插件 `The Greate Suspender`]: 设置tab多久没有访问后suspend,节省chorme资源
