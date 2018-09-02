@@ -21,3 +21,4 @@
 + [Kuler 配色 主题](https://color.adobe.com/zh/create/color-wheel/)
 + [url shorter 生成短地址](https://www.shorturl.at/)
 + chrome插件 `The Greate Suspender`: 设置tab多久没有访问后suspend,节省chorme资源
++ [window系统 类Alfred workflow 工具](https://github.com/Wox-launcher/Wox)
