@@ -26,4 +26,4 @@
 + [git 提交规范 git-flow](https://github.com/DaYeSquad/git-workflow/blob/master/commit.md)
 + [yeoman 前端工程构建工具](https://yowebapp.github.io/)
 ------------------
-+ [https://fred.stlouisfed.org/search?st=treasuryBonds](https://fred.stlouisfed.org/search?st=treasuryBonds)
++ [fred 指数 数据 金融](https://fred.stlouisfed.org/search?st=treasuryBonds)
