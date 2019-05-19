@@ -27,3 +27,5 @@
 + [yeoman 前端工程构建工具](https://yowebapp.github.io/)
 ------------------
 + [fred 指数 数据 金融](https://fred.stlouisfed.org/search?st=treasuryBonds)
+------------------
++ [weather mapbox](https://weather.com/zh-CN/weather/radar/interactive/l/40.09,116.37)
