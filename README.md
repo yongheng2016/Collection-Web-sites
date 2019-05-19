@@ -29,3 +29,4 @@
 + [fred 指数 数据 金融](https://fred.stlouisfed.org/search?st=treasuryBonds)
 ------------------
 + [weather mapbox](https://weather.com/zh-CN/weather/radar/interactive/l/40.09,116.37)
++ [ventusky](https://www.ventusky.com/?p=44;7;1&l=temperature)
