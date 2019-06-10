@@ -29,6 +29,7 @@
 + [fred 指数 数据 金融](https://fred.stlouisfed.org/search?st=treasuryBonds)
 + [人口山](https://pudding.cool/2018/12/3d-cities-story/)
 + [人口山地图](https://pudding.cool/2018/10/city_3d/)
++ [遥感数据下载汇总](https://mp.weixin.qq.com/s/3FOP5eppCYAagdEeimfdyA)
 ------------------
 + [weather mapbox](https://weather.com/zh-CN/weather/radar/interactive/l/40.09,116.37)
 + [ventusky](https://www.ventusky.com/?p=44;7;1&l=temperature)
