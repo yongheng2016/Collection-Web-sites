@@ -27,6 +27,7 @@
 + [yeoman 前端工程构建工具](https://yowebapp.github.io/)
 + [git提交规范](https://github.com/DaYeSquad/git-workflow/blob/master/commit.md)
 + [react-chart 汇总](https://hackernoon.com/choosing-a-data-visualization-library-for-react-444263a41f98)
++ [flex 在线 demo](https://cvan.io/flexboxin5/)
 + [git 学习](https://learngitbranching.js.org/)
 ------------------
 + [fred 指数 数据 金融](https://fred.stlouisfed.org/search?st=treasuryBonds)
