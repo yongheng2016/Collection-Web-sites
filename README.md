@@ -28,7 +28,7 @@
 + [git提交规范](https://github.com/DaYeSquad/git-workflow/blob/master/commit.md)
 + [react-chart 汇总](https://hackernoon.com/choosing-a-data-visualization-library-for-react-444263a41f98)
 + [flex 在线 demo](https://cvan.io/flexboxin5/)
-+ [clip-path 在线生成](https://bennettfeely.com/clippy/)
++ [clip-path 在线生成(科学上网)](https://bennettfeely.com/clippy/)
 + [常见 css 图形](https://css-tricks.com/the-shapes-of-css/)
 + [代码 图片 生成](https://carbon.now.sh)
 + [炫酷背景图片](https://wangyasai.github.io/designtools.html)
