@@ -41,3 +41,4 @@
 ------------------
 + [weather mapbox](https://weather.com/zh-CN/weather/radar/interactive/l/40.09,116.37)
 + [ventusky](https://www.ventusky.com/?p=44;7;1&l=temperature)
++ [变量命名规则](https://www.allacronyms.com/radio/abbreviated)  [命名规范](https://cloud.tencent.com/developer/article/1456096)
