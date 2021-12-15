@@ -43,3 +43,4 @@
 + [ventusky](https://www.ventusky.com/?p=44;7;1&l=temperature)
 + [变量命名规则](https://www.allacronyms.com/radio/abbreviated)  [命名规范](https://cloud.tencent.com/developer/article/1456096)
 + [学习正则](https://regexlearn.com/)
++ [学习正则](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
